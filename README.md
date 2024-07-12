@@ -14,13 +14,13 @@ The initial page which opens up on launch
 
 Decimal and Binary switches on changing the counter value:
 1) counter value set to 3
-![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img2.jpeg) 
-![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img3.jpeg) 
+![reference-image](assets/ref_img1.jpeg) 
+![reference-image](assets/ref_img3.jpeg) 
 
 2) counter value set to 10
-![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img4.jpeg) 
-![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img5.jpeg) 
+![reference-image](assets/ref_img4.jpeg) 
+![reference-image](assets/ref_img5.jpeg) 
 
 The converter page
-![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img6.jpeg) 
-![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img7.jpeg) 
+![reference-image](assets/ref_img6.jpeg) 
+![reference-image](assets/ref_img7.jpeg) 
