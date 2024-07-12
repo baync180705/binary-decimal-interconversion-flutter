@@ -9,18 +9,17 @@ Your one stop solution to all decimal-binary interconversion problems !
 
 # Images for Reference:
 
-The initial page which opens up on launch
+1) <h3>The initial page which opens up on launch</h3>
 <img src="assets/ref_img1.jpeg" alt="ref-image" height="40%" width="50%" />
 
-Decimal and Binary switches on changing the counter value:
-1) counter value set to 3
+2) <h3> counter value set to 3</h3>
 <img src="assets/ref_img2.jpeg" alt="ref-image" height="40%" width="50%" />
 <img src="assets/ref_img3.jpeg" alt="ref-image" height="40%" width="50%" />
 
-2) counter value set to 10
+3) <h3>counter value set to 10</h3>
 <img src="assets/ref_img4.jpeg" alt="ref-image" height="40%" width="50%" />
 <img src="assets/ref_img5.jpeg" alt="ref-image" height="40%" width="50%" />
 
-The converter page
+4) <h3>The converter page</h3>
 <img src="assets/ref_img6.jpeg" alt="ref-image" height="40%" width="50%" />
 <img src="assets/ref_img7.jpeg" alt="ref-image" height="40%" width="50%" />
