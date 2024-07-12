@@ -1,16 +1,26 @@
-# mdg_flutter_assignment
+# Decimal-Binary Interconversion App
 
-A new Flutter project.
+Your one stop solution to all decimal-binary interconversion problems ! 
 
-## Getting Started
+# Features:
+1) Counter - Allowing you to increment and decrement
+2) Toggle Switch - Lets you view the binary value corresponding to the current counter value</>
+3) Converter - Allowing you to access the decimal corresponding to any binary
 
-This project is a starting point for a Flutter application.
+# Images for Reference:
 
-A few resources to get you started if this is your first Flutter project:
+The initial page which opens up on launch
+![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img1.jpeg) 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Decimal and Binary switches on changing the counter value:
+1) counter value set to 3
+![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img2.jpeg) 
+![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img3.jpeg) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2) counter value set to 10
+![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img4.jpeg) 
+![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img5.jpeg) 
+
+The converter page
+![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img6.jpeg) 
+![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img7.jpeg) 
