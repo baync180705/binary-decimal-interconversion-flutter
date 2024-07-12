@@ -10,17 +10,17 @@ Your one stop solution to all decimal-binary interconversion problems !
 # Images for Reference:
 
 The initial page which opens up on launch
-![reference-image](https://github.com/baync180705/binary-decimal-interconversion-flutter/assets/ref_img1.jpeg) 
+<img src="assets/ref_img1.jpeg" alt="ref-image" height="40%" width="50%" />
 
 Decimal and Binary switches on changing the counter value:
 1) counter value set to 3
-![reference-image](assets/ref_img1.jpeg) 
-![reference-image](assets/ref_img3.jpeg) 
+<img src="assets/ref_img2.jpeg" alt="ref-image" height="40%" width="50%" />
+<img src="assets/ref_img3.jpeg" alt="ref-image" height="40%" width="50%" />
 
 2) counter value set to 10
-![reference-image](assets/ref_img4.jpeg) 
-![reference-image](assets/ref_img5.jpeg) 
+<img src="assets/ref_img4.jpeg" alt="ref-image" height="40%" width="50%" />
+<img src="assets/ref_img5.jpeg" alt="ref-image" height="40%" width="50%" />
 
 The converter page
-![reference-image](assets/ref_img6.jpeg) 
-![reference-image](assets/ref_img7.jpeg) 
+<img src="assets/ref_img6.jpeg" alt="ref-image" height="40%" width="50%" />
+<img src="assets/ref_img7.jpeg" alt="ref-image" height="40%" width="50%" />
