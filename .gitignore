@@ -1,0 +1,6 @@
+.idea/
+.dart_tool/
+/build/
+/android/app/debug
+/android/app/profile
+/android/app/release
